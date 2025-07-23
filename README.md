@@ -55,3 +55,4 @@ YouTube: To personalize video recommendations
 Conclusion : This task demonstrates how a simple recommendation system works on real-world data. It gives you an idea of how we can leverage machine learning techniques to predict user preferences. With minimal tools and some sophisticated math under the hood, this notebook produces a simple but efficient recommender that would be easily modifiable to other domains such as e-commerce, music, or learning websites.
 
 OUTPUT : 
+<img width="874" height="701" alt="Image" src="https://github.com/user-attachments/assets/1e757866-35dd-4920-bc87-3e739ad5a20e" />
