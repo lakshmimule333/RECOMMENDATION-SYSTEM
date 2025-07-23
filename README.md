@@ -56,3 +56,4 @@ Conclusion : This task demonstrates how a simple recommendation system works on 
 
 OUTPUT : 
 <img width="874" height="701" alt="Image" src="https://github.com/user-attachments/assets/1e757866-35dd-4920-bc87-3e739ad5a20e" />
+<img width="986" height="698" alt="Image" src="https://github.com/user-attachments/assets/e2c40ec1-4ff2-4ab1-9a9f-edec946aeb48" />
